@@ -1,6 +1,6 @@
 # AngularSweetAlert
 
-![2023-11-18 15-54-57](https://github.com/codewithelmor/Angular-Sweet-Alert/assets/44918452/c88ab3e1-e2a2-40b0-a44f-eb096b149bae)
+![2023-11-18 15-54-57](https://github.com/codewithelmor/Angular-Sweet-Alert/assets/44918452/d9335df4-40ff-4ad3-aff7-d4127122f1cd)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
 
